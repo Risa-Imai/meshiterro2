@@ -1,4 +1,4 @@
-# カリキュラムを復習することに加えこれまで取り入れていなかったgemなどを合わせてmeshiterroを作成
+## カリキュラムを復習することに加えこれまで取り入れていなかったgemなどを合わせてmeshiterroを作成
 
 ## slim導入参考
 [記事１](https://qiita.com/ngron/items/c03e68642c2ab77e7283)
