@@ -11,6 +11,7 @@ module Meshiterro2
     # Initialize configuration defaults for originally generated Rails version.
     config.load_defaults 6.1
     config.generators.template_engine = :slim
+    config.i18n.default_locale = :ja
 
     # Configuration for the application, engines, and railties goes here.
     #
